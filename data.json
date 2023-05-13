@@ -1,0 +1,19 @@
+{
+    "data":[
+        {
+            "nama":"Samsung",
+            "harga": 20000000,
+            "deskripsi" :"Ini HP samsung"
+        },
+        {
+            "nama":"Nokia",
+            "harga": 20000000,
+            "deskripsi" :"Ini HP Nokia"
+        },
+        {
+            "nama":"Xiaomi",
+            "harga": 20000000,
+            "deskripsi" :"Ini HP Xiaomi"
+        }
+    ]
+}
